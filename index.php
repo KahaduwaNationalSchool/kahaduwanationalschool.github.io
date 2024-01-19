@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Kahaduwa National School</title>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="images/kns-logo.png"/>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/plugins/vegas.min.css" rel="stylesheet">
+    <link href="assets/plugins/magnific-popup.css" rel="stylesheet">
+    <link href="assets/plugins/owl.carousel.min.css" rel="stylesheet">
+    <link href="assets/plugins/gijgo.css" rel="stylesheet">
+    <link href="css/gallerystyle.css" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet">
+
+
+</head>
+
+<body>
+
+<!--header include start-->
+<?php
+include_once("includes/header.php");
+?>
+<!--header include end-->
+
+    <!--== SlideshowBg Area Start ==-->
+    <section id="slideslow-bg">
+        <div class="col-lg-12 text-center">
+            <div class="slideshowcontent">
+                <h2>කහදූව ජාතික පාසලේ වෙබ් පිටුව වෙත සාදරයෙන් පිළිගනිමු !</h2>
+                <h2>Welcome to Kahaduwa National School Web page !</h2>
+                <h2>கஹதுவா தேசிய பள்ளி இணையதளத்திற்கு வரவேற்கிறோம் !</h2>
+                <div>
+                    <img src="images/kns-logo.png" alt="School Official Logo" width="300px" height="300px">
+                </div>
+                <h4>අත්තානං දමයන්ති පණ්ඩිතා</h4>
+            </div>
+        </div>
+    </section>
+    <!--== SlideshowBg Area End ==-->
+
+    <!--== About Us Area Start ==-->
+    <section id="about-area" class="section-padding">
+        <div class="container">
+            <div class="row">
+                <!-- Section Title Start -->
+                <div class="col-lg-12">
+                    <div class="section-title  text-center">
+                        <h2>අප ගැන</h2>
+                        <span class="title-line"><i class="fa fa-info"></i></span>
+                        <p class="text-justify">94 K ග්‍රාම නිලධාරී වසමේ පිහිටි කහදූව ගම්මානය භූමි ප්‍රමාණයෙන් හෙක්ටයාර 203 ක විශාලත්වයකින් යුක්ත වේ.
+                        1899 නොවැම්බර් 20 වන දින කහදූව ගම් පියසේ පොල් අතු සෙවළි කරන ලද පොල් අතු පැලකින් ඇරඹී මෙම පාසල එවක සිටි ජනී ජනයා ආමන්ත්‍රණය කරන ලද්දේ "කහදූව ඉස්කෝලේ" යන නාමයෙනි. 
+                        විද්‍යාලයේ ආරම්භක විදුහල්පති ලෙස ඒ. සමරනායක මහතා මෙම පාසල නගා සිටුවීම සඳහා විශාල කැප කිරීමක් සිදිකරන ලදී.
+                        එතුමාගේ සහයට එම්.කේ. උදාරිස් සහ පී.උදාරිස් යන ගුරුවරුන් දෙදෙනා එක් විය.<br><br>
+                        පාසල ආරම්භයේදී එහි වූයේ කළු ලෑලි 01 ක්, බංකු 12 ක්, ලියනමේස 01 ක්, ලොග් සටහන් පොත් 01 ක්, දිනපතා පැමිණීම සටහන් කරන ලේඛන 01 ක් පමණක් බව සඳහන් වේ.
+                        පාසල ආරම්භක අවස්ථාවේදී එහි සිසුන් 83 ක් පමණ ඉගනීමේ නිරත වී ඇති අතර, ඒ කාල වකවානුවේදී පිරිමි පාසලක් ලෙස පවත්වා ඇත.
+                        පසුව කාන්තාවන්ටද ඉගෙනුම ලැබීමට හැකි වන පරිදි එහි ව්‍යුහය වෙනස් වී ඇත.
+                        එම හේතුව නිසා 1937 වසරේදී කාන්තා හා පිරිමි වශයෙන් එකම පාසල් ඉඩම පාසල් 02 ක් බවට පත්ව ඇත.
+                        පිරිමි පාසලේ විදුහල්පති ලෙස ඒ. සමරනායක මහතා සේවය කර ඇත. කාන්තා පාසලේ විදුහල්පතිතුමිය ලෙස පතිරත්න ජයසිංහ මහත්මිය සේවය කර ඇත.
+                        කෙසේ වෙතත් එම වසරේදීම (1937) පිරිමි හා කාන්තා ලෙස පාසල් දෙකකින් යුක්ත වූ මෙය මිශ්‍ර පාසලක් බවට පත වී ඇත.
+                        එහි මුල් විදුහල්පති වශයෙන් ඩී. සුගතදාස මහත්මා සේවය කරන ලදී. 1996 වසරේදී කහදූව පාසල නවෝද්‍යා පාසලක් බවට පත්ව ඇත.<br><br>
+                        අතීතයේ ජනී ජනයා "කහදූව ඉස්කෝලේ" යන නාමයෙන් ආමන්ත්‍රණය කරන ලද පාසල අද වන විට ජාතික පාසලක් බවට පත්ව ඇත.
+                        දැනට වසර 122 ක පමණ ඉතිහාසයක් ඇති කහදූව ජාතික පාසල, එම කාල පරාසය තුළ විදුහල්පතිවරු 29 ක් සේවය කර ඇත.
+                        වර්තමානය වන විට විද්‍යල්‍යීය විදුහල්පති අසුන ඒ. රංජිත් මහතා විසින් හොඹවනු ලබයි. සිසු දරු දැරියන් 700 ක් පමණද, 65 ක පමණ ගුරු මණ්ඩලයකින් වර්තමානය වන විට එය සැකසී ඇත.
+                        කලා හා වාණිජ විෂය ධාරාවට පමණක් සීමාව තිබූ උසස් පෙළ 2013 වර්ෂයේදී විද්‍යා හා ගණිත අංශ දක්වා පැතිරුණි.
+                        </p>
+                    </div>
+                </div>
+                <!-- Section Title End -->
+
+                <!-- Vision Title Start -->
+                <div class="col-lg-6 h-50">
+                    <div class="section-title2  text-center">
+                        <i class="fa fa-pencil-square"></i>
+                        <h2>විද්‍යාලයීය දැක්ම</h2>
+                        <p>නැණ ගුණ වඩන රට දැය සුරකින ධනාත්මක චින්තනයෙන් හෙබි බුද්ධිමත් පුරවැසියන් පිරිසක් බිහි කර රටට දායාද කරලීම.<br><br></p><br><br>
+                    </div>
+                </div>
+                <!-- Vision Title End -->
+
+                <!-- Mission Title Start -->
+                <div class="col-lg-6 h-50">
+                    <div class="section-title2 text-center">
+                        <i class="fa fa-pencil-square"></i>
+                        <h2>විද්‍යාලයීය මෙහෙවර</h2>
+                        <p>භෞතික හා මානව සම්පත් මනා කළමනාකරණය තුළින් ගුරු-සිසු නිපුණතා සංවර්ධනය කරා ගෙන යමින් කහදූව ජාතික පාසල ඵලදායි පාසලක් බවට පත් කිරීම අපගේ උදාර මෙහෙවරයි.</p><br><br>
+                    </div>
+                </div>
+                <!-- Mission Title End -->
+
+                <!-- Section Title Start -->
+                <div class="col-lg-12">
+                    <div class="section-title  text-center">
+                        <h2>ආරම්භයේ සිට වර්තමානය දක්වා සේවය කල / සේවයේ නිරත වන විදුහල්පතිවරු</h2>
+                        <span class="title-line"><i class="fa fa-male"></i></span><br><br>
+                        <button type="button" class="btn btn-info">ඒ. සමරනායක මහතා 1889-1905</button>
+                        <button type="button" class="btn btn-info">සී.ඩබ්.ඒ. සමරසිංහ මහතා 1905-1920</button>
+                        <button type="button" class="btn btn-info">ඩබ්ලිව්. මාසාච්චි මහතා 1920 (මාස කිහිපයක්)</button>
+                        <button type="button" class="btn btn-info">තණබද්දේගම ජයරත්න මහතා 1920-1937</button>
+                        <button type="button" class="btn btn-info">ඩී.එස්. සමරසිංහ මහතා 1937 (මාස කිහිපයක්)</button>
+                        <button type="button" class="btn btn-info">පතිරත්න ජයසිංහ මහත්මිය 1937 (මාස කිහිපයක්)</button>
+                        <button type="button" class="btn btn-info">ඩී. සුගතදාස මහත්මා 1937-1950</button>
+                        <button type="button" class="btn btn-info">බී.බී. අල්විස් මහතා 1950-1964</button>
+                        <button type="button" class="btn btn-info">පී. ගම්මන්පිල මහතා 1964-1965</button>
+                        <button type="button" class="btn btn-info">ආර්. වික්‍රමසිංහ මහතා 1965 (මාස කිහිපයක්)</button>
+                        <button type="button" class="btn btn-info">ඩී.ඩී. ව්ජේ ගුණවර්ධන මහතා (මාස කිහිපයක්)</button>
+                        <button type="button" class="btn btn-info">එස්.එච්.ඩබ්ලිව්. ලීලාරත්න මහතා 1965-1971</button>
+                        <button type="button" class="btn btn-info">ඩබ්ලිව්.එස්. ද සිල්වා මහතා 1971-1973</button>
+                        <button type="button" class="btn btn-info">කේ.එල්.ජී.ජී. ප්‍රැන්සිස් මහතා 1973  (මාස කිහිපයක්)</button>
+                        <button type="button" class="btn btn-info">ඒ.ඒ ජයසිංහ මහතා 1973-1978</button>
+                        <button type="button" class="btn btn-info">එස්.ජී. ගුරුසිංහ මහතා 1978-1979</button>
+                        <button type="button" class="btn btn-info">කේ.එච්.කේ. ජිනදාස මහතා 1979-1980</button>
+                        <button type="button" class="btn btn-info">එම්. කලන්සූරිය මහතා 1980-1983</button>
+                        <button type="button" class="btn btn-info">ඒ.ඒ. ජයසිංහ මහතා 1983-1984</button>
+                        <button type="button" class="btn btn-info">කේ.බී. සෝමසිරි මහතා 1984-1985</button>
+                        <button type="button" class="btn btn-info">පූජ්‍ය පී. චන්ද්‍රසිරි හිමි 1985-1992</button>
+                        <button type="button" class="btn btn-info">එස්. බණ්ඩාරිගොඩ මහත 1992-1993</button>
+                        <button type="button" class="btn btn-info">පාලිත හෙට්ටිගම මහතා 1993  (මාස කිහිපයක්)</button>
+                        <button type="button" class="btn btn-info">පී.කේ.ඩී. නිමල් ප්‍රෙමසිරි මහතා 1993-2002</button>
+                        <button type="button" class="btn btn-info">කේ.එල්. සුනිල් ප්‍රේමසිරි මහතා 2002 (මාස කිහිපයක්)</button>
+                        <button type="button" class="btn btn-info">කේ.එම්. සුනිල් පද්මසිරි මහතා 2002-2006</button>
+                        <button type="button" class="btn btn-info">කේ.එම්.ජී. රංජනී මහත්මිය 2006-2007</button>
+                        <button type="button" class="btn btn-info">ඒ.පී.ජී. චන්ද්‍රසිරි මහතා 2007-2013</button>
+                        <button type="button" class="btn btn-info">ඒ. රංජිත් මහතා 2013 සිට වර්තමානය දක්වා</button>                       
+                    </div>
+                </div>
+                <!-- Section Title End -->
+            </div>
+
+        </div>
+    </section>
+    <!--== About Us Area End ==-->
+
+    <!--== Services Area Start ==-->
+    <section id="service-area" class="section-padding">
+        <div class="container">
+            <div class="row">
+                <!-- Section Title Start -->
+                <div class="col-lg-12">
+                    <div class="section-title  text-center">
+                        <h2>ජායාරූප එකතුව</h2>
+                        <span class="title-line"><i class="fa fa-camera"></i></span><br><br>
+                    </div>
+                </div>
+                <!-- Section Title End -->
+            </div>
+
+			<!-- Service Content Start -->
+			<div class="row">
+				<div class="col-lg-12 m-auto text-center">
+					<div class="service-container-wrap">
+
+						<!-- Single Service Start -->
+						<div class="service-item">
+							<img src="images/home-gallery/school-front.jpg" alt="Error ! while loading the image.">
+                            <p>යක්කටුව- මාපලගම - වදුරඹ මාර්ගයට පාසලේ ඉදිරිපස ගොඩනැගිලි දර්ශනය වන ආකාරය</p>
+						</div>
+						<!-- Single Service End -->
+
+						<!-- Single Service Start -->
+						<div class="service-item">
+                            <img src="images/home-gallery/cadet-corps.png" alt="Error ! while loading the image.">
+                            <p>පාසලේ ප්‍රථම ශිෂ්‍යබට කණ්ඩායම රංටැඹේ ජාතික ශිෂ්‍යබට පුහුණු මධ්‍යස්ථානයේ දී</p>
+						</div>
+						<!-- Single Service End -->
+
+						<!-- Single Service Start -->
+						<div class="service-item">
+                            <img src="images/home-gallery/new-tech-building.jpg" alt="Error ! while loading the image.">
+                            <p>පාසලට හිමි වූ නව තාක්ෂණික විද්‍යගාරය. 2013 වර්ෂයේදී සිසු දරුදැරියන්ගේ අයිතියට පත්කරන ලදී</p>
+						</div>
+						<!-- Single Service End -->
+
+						<!-- Single Service Start -->
+						<div class="service-item">
+                            <img src="images/home-gallery/prefect-body.jpg" alt="Error ! while loading the image.">
+                            <p>කහදූව ජාතික පාසලේ 2022 වර්ෂය සඳහා ශිෂ්‍ය නායක නායිකාවන් තෝරා පත්කර ගැනීමේ උත්සවය</p>
+						</div>
+						<!-- Single Service End -->
+
+						<!-- Single Service Start -->
+						<div class="service-item">
+                            <img src="images/home-gallery/school-middle.jpg" alt="Error ! while loading the image.">
+                            <p>පාසලේ ප්‍රධාන ගොඩනැගිල්ල. මෙහි මධ්‍ය‍යේ ඇති චිත්‍රය <b>ඩික්සන් සූරියාඅරච්චි</b> ගුරු පියාණන්ගේ නිර්මාණයකි.</p>
+						</div>
+						<!-- Single Service End -->
+
+                        <!-- Single Service Start -->
+						<div class="service-item">
+                            <img src="images/home-gallery/scout-unit.jpg" alt="Error ! while loading the image.">
+                            <p>පාසලේ ජාතික බාලදක්ෂ කණ්ඩායම විසින් විද්‍යාලයීය ක්‍රීඩාංගනයේදී පවත්වන ලද ක්‍රියාකාරකමක්</p>
+						</div>
+						<!-- Single Service End -->
+
+                        <!-- Single Service Start -->
+						<div class="service-item">
+                            <img src="images/home-gallery/students.jpg" alt="Error ! while loading the image.">
+                            <p>පාසලේ සිසු සිසුවියන් උදෑසන රැස්වීම සඳහා කීඩාංගනයේ රැදී සිටින අයුරු.</p>
+						</div>
+						<!-- Single Service End -->
+
+					</div>
+				</div>
+			</div>
+			<!-- Service Content End -->
+        </div>
+    </section>
+    <!--== Services Area End ==-->
+
+    <!--****Javascript****-->
+    <script src="assets/js/jquery-3.2.1.min.js"></script>
+    <script src="assets/js/jquery-migrate.min.js"></script>
+    <script src="assets/js/apopper.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/plugins/gijgo.js"></script>
+    <script src="assets/js/plugins/vegas.min.js"></script>
+    <script src="assets/js/plugins/isotope.min.js"></script>
+    <script src="assets/js/plugins/owl.carousel.min.js"></script>
+    <script src="assets/js/plugins/waypoints.min.js"></script>
+    <script src="assets/js/plugins/counterup.min.js"></script>
+    <script src="assets/js/plugins/mb.YTPlayer.js"></script>
+    <script src="assets/js/plugins/magnific-popup.min.js"></script>
+    <script src="assets/js/plugins/slicknav.min.js"></script>
+    <script src="assets/js/main.js"></script>
+
+
+<!--footer include start-->
+<?php
+include_once("includes/footer.php");
+?>
+<!--footer include end-->
+
+</body>
+</html>
