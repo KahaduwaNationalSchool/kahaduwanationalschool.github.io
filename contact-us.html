@@ -5,16 +5,33 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="stylesheet" type="text/css" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css">
+	    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="shortcut icon" type="image/x-icon" href="images/kns-logo.png"/>
         <link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/style.css" type="text/css" rel="stylesheet">
+        <link href="css/second-css.css" rel="stylesheet">
     </head>
 
 <body>
 
-<?php
-include_once("includes/header.php");
-?>
+    <!--header include start-->
+    <div class="menu-bar">
+        <span id="schooltitle" href="index.php">කහදූව ජාතික පාසල</span><br>
+        <span id="datetime" class="timecolor"></span>
+    </div>
+
+    <div class="header">
+        <div class="header-left school-info-card">
+            <span>පාසල් අංකය : 07184<br>සංඝණන අංකය : 06145<br>පාසල් වර්ගය : 1-AB</span>
+        </div>
+
+        <div class="header-right">
+            <a href="index.html"><i class="fas fa-home">&nbsp;&nbsp;මුල් පිටුව</i></a>
+            <a href="index.html#about-area"><i class="fas fa-info">&nbsp;&nbsp;අප ගැන</i></a>
+            <a href="contact-us.html"><i class="fas fa-phone-alt">&nbsp;&nbsp;විමසීම්</i></a>
+        </div>
+    </div>
+    <!--header include end-->
 
 <div class="container-fluid">
     <h1>අප හා සම්බන්ධ වන්න</h1>
@@ -59,7 +76,7 @@ include_once("includes/header.php");
     <h5>වෙබ් අඩවිය: <a></a></h5>
     <h5>පාසලේ ලිපිනය: <a href="#">කහදූව ජාතික පාසල, කහදූව, 80460<a></h5>
 
-    <a href="https://www.facebook.com"><i class="fa fa-facebook-square"></i>ෆේස්බුක්</a>
+    <a href="https://www.facebook.com/KahaduwaNationalSchool"><i class="fa fa-facebook-square"></i>ෆේස්බුක්</a>
     <!-- <a href="#"><i class="fa fa-youtube-square"></i></a>
     <a href="#"><i class="fa fa-twitter-square"></i></a> -->
     </div>
@@ -68,9 +85,18 @@ include_once("includes/header.php");
 </div><br>
 </div>
 
-<?php
-include_once("includes/footer.php");
-?>
+<!--footer include start-->
+<div class="col">
+    <img src="images/kns-logo.png" class="hometheme">
+    <br><a href="https://www.facebook.com/KahaduwaNationalSchool" class="fa fa-facebook"></a>
+    <a href="#" class="fa fa-twitter"></a>
+    <a href="#" class="fa fa-youtube"></a><br><br>
+    <p id="copyright">&copy; <script>document.getElementById("copyright").appendChild(document.createTextNode(new Date().getFullYear()))</script> කහදූව ජාතික පාසල. සියලු හිමිකම් ඇවිරිණි.</p></br>
+</div>
+<!--footer include end-->
+
+<!--****Javascript****-->
+<script src="assets/js/time.js"></script>
 
 </body>
 </html>
